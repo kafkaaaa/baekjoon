@@ -13,4 +13,4 @@ public class Times_Table_2739 {
 			System.out.println(N + " * " + i + " = " + N * i);
 		}
 	}
-}
+}	
